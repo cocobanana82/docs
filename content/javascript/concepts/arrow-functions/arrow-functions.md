@@ -18,7 +18,7 @@ CatalogContent:
 
 ## Syntax
 
-```pseudo
+```js
 const functionA = (parameter1, parameter2, ..., parameterN) => {
   // Function body here
 }
